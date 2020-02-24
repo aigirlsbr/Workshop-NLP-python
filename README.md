@@ -1,4 +1,4 @@
-# Workshops Introdução a NLP
+# Workshops Introdução a NLP com Python
 
 Workshop ministrado para a comunidade da AIGirls Brasil
 
